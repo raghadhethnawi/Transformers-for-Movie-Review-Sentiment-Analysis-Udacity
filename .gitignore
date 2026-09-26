@@ -7,3 +7,5 @@ starter/aclimdb_v1.tar.gz
 starter/sentimentscope_best_model.pt
 starter/aclImdb/
 .DS_Store
+*.tar.gz
+*.pt
