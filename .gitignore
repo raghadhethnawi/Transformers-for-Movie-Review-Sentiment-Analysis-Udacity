@@ -1,0 +1,9 @@
+.DS_Store
+.workspace-submit.json
+starter/.ipynb_checkpoints/
+starter/aclImdb/
+starter/sentimentscope_best_model.pt
+starter/aclimdb_v1.tar.gz
+starter/sentimentscope_best_model.pt
+starter/aclImdb/
+.DS_Store
